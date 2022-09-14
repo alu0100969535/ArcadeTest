@@ -35,7 +35,7 @@ Para el hud se ha usado el mismo sistema de widgets y se ha enlazado la puntuaci
 
 ![](img/ingame.PNG)
 
-[](img/hud-text.PNG)
+![](img/hud-text.PNG)
 
 Para las vidas, se ha enlazado la visibilidad de cada sprite a la cantidad de vidas que tiene el SIPawn.
 
